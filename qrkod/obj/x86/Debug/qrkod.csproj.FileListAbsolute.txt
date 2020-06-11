@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\bin\Debug\qrkod.exe
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\bin\Debug\qrkod.pdb
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.exe
+c:\users\asus\documents\visual studio 2010\Projects\qrkod\qrkod\obj\x86\Debug\qrkod.pdb
